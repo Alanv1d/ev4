@@ -1,4 +1,4 @@
-import card from '../src/componentes/card'
+import Card from '../src/componentes/card'
 function App(){
   return (
     <div className='App'>
