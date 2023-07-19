@@ -84,20 +84,3 @@
   }
 
 
-
-
-
-  .contenedorTexto2{
-    width: 30em;
-    border-radius: 10px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5) ;
-    overflow: hidden;
-    margin: 2em;
-    text-align: center;
-    transition: all 0.25s;
-    background-color: rgb(245, 245, 245);
-}
-.contenedorImagen2{
-  width: 100%;
-  height: 9em;
-}
