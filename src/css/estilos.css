@@ -83,4 +83,26 @@
     top: 2px;
   }
 
+  .CardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .Card {
+    width: 200px;
+    height: 250px;
+    background-color: #faf8fa;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  }
 
+
+  .App {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content:center;
+    flex-wrap:wrap;
+  }
